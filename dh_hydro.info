@@ -1,0 +1,10 @@
+name = dH Hydro
+description = Hydrologic Feature Management and Analysis Tools for Data Handlers Module.
+core = 7.x
+php = 5.3.0
+
+; 
+dependencies[] = dh
+stylesheets[all][] = dh_hydro.css
+
+version = "7.x-1.0"

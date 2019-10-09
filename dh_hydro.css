@@ -1,0 +1,391 @@
+
+
+.leaflet-div-drought-normal
+{
+  background:green;
+  border:5px solid rgba(255,255,255,0.5);
+  color:green;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:10px;
+  width:10px;
+  height:10px;
+}
+
+.leaflet-div-drought-watch
+{
+  background:yellow;
+  border:5px solid rgba(255,255,255,0.5);
+  color:yellow;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:10px;
+  width:10px;
+  height:10px;
+}
+.leaflet-div-drought-warning
+{
+  background:orange;
+  border:5px solid rgba(255,255,255,0.5);
+  color:orange;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:10px;
+  width:10px;
+  height:10px;
+}
+.leaflet-div-drought-emergency
+{
+  background:red;
+  border:5px solid rgba(255,255,255,0.5);
+  color:red;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:10px;
+  width:10px;
+  height:10px;
+}
+
+
+.point-gradient-class-0
+{
+  background:#E50031;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#E50031;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+}
+
+
+.point-gradient-class-1
+{
+  background:#E50031;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#E50031;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+}
+
+.point-gradient-class-2
+{
+  background:#E50031;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#E50031;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+}
+
+.point-gradient-class-3
+{
+  background:#E50031;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#E50031;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+}
+
+.point-gradient-class-4
+{
+  background:#E50031;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#E50031;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+}
+
+.point-gradient-class-5
+{
+  background:#C21C35;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#C21C35;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+}
+
+.point-gradient-class-6
+{
+  background:#A0393A;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#A0393A;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+}
+
+.point-gradient-class-7
+{
+  background:#7D553F;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#7D553F;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+}
+
+.point-gradient-class-8
+{
+  background:#5B7243;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#5B7243;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+}
+
+.point-gradient-class-9
+{
+  background:#388E48;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#388E48;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+}
+
+.point-gradient-class-10
+{
+  background:#16AB4D;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#16AB4D;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+} 
+
+.point-gradient-class-11
+{
+  background:#16AB4D;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#16AB4D;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+} 
+
+.point-gradient-class-12
+{
+  background:#16AB4D;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#16AB4D;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+} 
+
+.point-gradient-class-13
+{
+  background:#16AB4D;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#16AB4D;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+} 
+
+.point-gradient-class-14
+{
+  background:#16AB4D;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#16AB4D;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+} 
+
+.point-gradient-class-15
+{
+  background:#00004D;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#00004D;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+} 
+
+.point-gradient-class-16
+{
+  background:#00004D;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#00004D;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+} 
+
+.point-gradient-class-17
+{
+  background:#00004D;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#00004D;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+} 
+
+.point-gradient-class-18
+{
+  background:#00004D;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#00004D;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+} 
+
+.point-gradient-class-19
+{
+  background:#00004D;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#00004D;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+} 
+
+.point-gradient-class-20
+{
+  background:#00004D;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#00004D;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+} 
+
+.point-gradient-class-21
+{
+  background:#00004D;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#00004D;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+} 
+
+.point-gradient-class-22
+{
+  background:#00004D;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#00004D;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+} 
+
+.point-gradient-class-23
+{
+  background:#00004D;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#00004D;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+} 
+
+.point-gradient-class-24
+{
+  background:#00004D;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#00004D;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+} 
+
+.point-gradient-class-25
+{
+  background:#00004D;
+  border:5px solid rgba(255,255,255,0.5);
+  color:#00004D;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:6px;
+  width:6px;
+  height:6px;
+} 
